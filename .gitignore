@@ -1,3 +1,5 @@
+.gitignore
+
 ## Stores meta information about folders and files
 .DS_Store
 
@@ -38,7 +40,7 @@ playground.xcworkspace
 
 # CocoaPods
 # Pods/
-!*.xcworkspace
+#!*.xcworkspace
 
 # Firebase
 GoogleService-Info.plist
